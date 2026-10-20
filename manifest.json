@@ -7,7 +7,7 @@
     "version": "3.0.0"
   },
   "display": {
-    "hw_rev": 5,
+    "hw_rev": 6,
     "sha256": "8010bfbd2ad5d4293264bf04f5a66f3773828466e732f6b7f837bb17d383d713",
     "size": 1231488,
     "url": "display_3.0.2.bin",
