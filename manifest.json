@@ -1,0 +1,17 @@
+{
+  "controller": {
+    "hw_rev": 5,
+    "sha256": "732156c065280355fd1ebb395583387874956a0da4cab7311d09fa28c4d35c90",
+    "size": 797072,
+    "url": "controller_3.1.1.bin",
+    "version": "3.1.1"
+  },
+  "display": {
+    "hw_rev": 5,
+    "sha256": "f50de2380e653a189a395604e9957974623cc985c9ead3c66f6c7db4bf78f759",
+    "size": 3412928,
+    "url": "display_3.1.6.bin",
+    "version": "3.1.6"
+  },
+  "generated": "2026-10-26T06:06:35Z"
+}
