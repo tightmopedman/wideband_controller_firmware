@@ -8,10 +8,10 @@
   },
   "display": {
     "hw_rev": 5,
-    "sha256": "05826a8b4a92941ace771d77935fcb5c655daae223ed24f12acf01395315765c",
-    "size": 3413152,
-    "url": "display_3.1.4.bin",
-    "version": "3.1.4"
+    "sha256": "ef467c43a28d8a4bf71138afe52798219a3d8d0e523b282f4f9a1950738bd508",
+    "size": 3412928,
+    "url": "display_3.1.5.bin",
+    "version": "3.1.5"
   },
-  "generated": "2026-10-26T05:24:39Z"
+  "generated": "2026-10-26T05:57:33Z"
 }
