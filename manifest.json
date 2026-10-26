@@ -1,17 +1,17 @@
 {
   "controller": {
     "hw_rev": 5,
-    "sha256": "233104f4e5a223e4c13a44a646c94e9f6743628f6a4792321952124084599c37",
-    "size": 787840,
-    "url": "controller_3.0.1.bin",
-    "version": "3.0.1"
+    "sha256": "aa7c92ca30b24e5fa142eb8e255c46fd373f3eef5c3b5ed85cb7407e51f653d7",
+    "size": 928160,
+    "url": "controller_3.1.0.bin",
+    "version": "3.1.0"
   },
   "display": {
     "hw_rev": 5,
-    "sha256": "b80157caac2dd61d7c6016f50b47bb9ce86293868b2c5e268685e9ef4f59b48a",
-    "size": 3266688,
-    "url": "display_3.0.6.bin",
-    "version": "3.0.6"
+    "sha256": "dceedff3c6e5600eae2982003c73fa8a463bbc393ffd66aa4e485321e03e29fb",
+    "size": 3411792,
+    "url": "display_3.1.0.bin",
+    "version": "3.1.0"
   },
-  "generated": "2026-10-25T05:56:42Z"
+  "generated": "2026-10-26T02:03:10Z"
 }
